@@ -7,6 +7,7 @@ void testGetTriangleType() {
 
 int main() {
     assert(addNumber(5, 2) == 7);
+    printf("回眸一笑閃到腰");
     testGetTriangleType();
     return 0;
 }
