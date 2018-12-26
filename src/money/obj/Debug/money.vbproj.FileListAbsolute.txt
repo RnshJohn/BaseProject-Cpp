@@ -1,0 +1,80 @@
+C:\Users\GAME\AppData\Local\Temporary Projects\money\bin\Debug\money.exe.config
+C:\Users\GAME\AppData\Local\Temporary Projects\money\bin\Debug\money.exe
+C:\Users\GAME\AppData\Local\Temporary Projects\money\bin\Debug\money.pdb
+C:\Users\GAME\AppData\Local\Temporary Projects\money\bin\Debug\money.xml
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.vbprojAssemblyReference.cache
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.Form1.resources
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.Resources.resources
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.vbproj.GenerateResource.cache
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.vbproj.CoreCompileInputs.cache
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.exe
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.xml
+C:\Users\GAME\AppData\Local\Temporary Projects\money\obj\Debug\money.pdb
+D:\軟工導論\money\money\bin\Debug\money.exe.config
+D:\軟工導論\money\money\bin\Debug\money.exe
+D:\軟工導論\money\money\bin\Debug\money.pdb
+D:\軟工導論\money\money\bin\Debug\money.xml
+D:\軟工導論\money\money\obj\Debug\money.vbprojAssemblyReference.cache
+D:\軟工導論\money\money\obj\Debug\money.Resources.resources
+D:\軟工導論\money\money\obj\Debug\money.vbproj.GenerateResource.cache
+D:\軟工導論\money\money\obj\Debug\money.vbproj.CoreCompileInputs.cache
+D:\軟工導論\money\money\obj\Debug\money.exe
+D:\軟工導論\money\money\obj\Debug\money.xml
+D:\軟工導論\money\money\obj\Debug\money.pdb
+D:\軟工導論\money\money\obj\Debug\money.money_wallet.resources
+D:\軟工導論\money\money\obj\Debug\money.login.resources
+D:\軟工導論\money\money\obj\Debug\money.PWctrl.resources
+D:\軟工導論\money\money\obj\Debug\money.record.resources
+D:\軟工導論\money\money\obj\Debug\money.兌獎.resources
+D:\軟工導論\money\money\bin\Debug\money.exe.manifest
+D:\軟工導論\money\money\bin\Debug\money.application
+D:\軟工導論\money\money\obj\Debug\money.TrustInfo.xml
+D:\軟工導論\money\money\obj\Debug\money.exe.manifest
+D:\軟工導論\money\money\obj\Debug\money.application
+D:\軟工導論\money\money\obj\Debug\money.圓餅圖.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.vbprojAssemblyReference.cache
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.money_wallet.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.login.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.Resources.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.PWctrl.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.record.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.兌獎.resources
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.vbproj.GenerateResource.cache
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.vbproj.CoreCompileInputs.cache
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.exe
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.xml
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.pdb
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\record.mdb
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.exe.config
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.exe.manifest
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.application
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.exe
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.pdb
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\bin\Debug\money.xml
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.TrustInfo.xml
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.exe.manifest
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.application
+C:\Users\Cai Tian-Lin\Downloads\money-master\money-master\money\obj\Debug\money.pieChart.resources
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\record.mdb
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.exe.config
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.exe.manifest
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.application
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.exe
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.pdb
+C:\Users\GAME\Downloads\money-master\money\bin\Debug\money.xml
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.vbprojAssemblyReference.cache
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.money_wallet.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.login.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.Resources.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.PWctrl.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.record.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.兌獎.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.pieChart.resources
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.vbproj.GenerateResource.cache
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.vbproj.CoreCompileInputs.cache
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.TrustInfo.xml
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.exe.manifest
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.application
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.exe
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.xml
+C:\Users\GAME\Downloads\money-master\money\obj\Debug\money.pdb
